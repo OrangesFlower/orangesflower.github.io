@@ -13,7 +13,11 @@
     src:url('../fonts/academicons.eot') format('embedded-opentype'),
         url('../fonts/academicons.ttf') format('truetype'),
         url('../fonts/academicons.woff') format('woff'),
-        url('../fonts/academicons.svg') format('svg');
+        url('../fonts/academicons.svg') format('svg'),
+        url('../fonts/bilibili.svg') format('svg'),
+        url('//at.alicdn.com/t/c/font_4624772_3ibw6cz5ixc.woff2?t=1721234042129') format('woff2'),
+        url('//at.alicdn.com/t/c/font_4624772_3ibw6cz5ixc.woff?t=1721234042129') format('woff'),
+        url('//at.alicdn.com/t/c/font_4624772_3ibw6cz5ixc.ttf?t=1721234042129') format('truetype');
 }
 .ai {
   font-family: 'Academicons';
@@ -569,3 +573,35 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bilibili:before {
+  content: "\eb78";
+}
+
+@font-face {
+  font-family: "iconfont"; /* Project id 4624772 */
+  src: url('//at.alicdn.com/t/c/font_4624772_3ibw6cz5ixc.woff2?t=1721234042129') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4624772_3ibw6cz5ixc.woff?t=1721234042129') format('woff'),
+       url('//at.alicdn.com/t/c/font_4624772_3ibw6cz5ixc.ttf?t=1721234042129') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bilibili:before {
+  content: "\eb78";
+}
+
