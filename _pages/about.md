@@ -23,9 +23,9 @@ redirect_from:
 *Duration:* September 2022 – Present  
 *Location:* Beijing, China
 
-- **Holographic Display and Interaction in 6G Communication Scenarios**
+- **Holographic Display and Interaction in 6G Communication Scenarios**  
   *Objective:* Explore limitations of current holographic technology in 6G communication to improve interaction and immersion. [[Devlog]](https://www.bilibili.com/video/BV1Bh4y147mp/)
-- **VR-based AR Hospital Navigation Simulation**
+- **VR-based AR Hospital Navigation Simulation**  
   *Objective:* Explore AR indoor navigation in hospitals to address user challenges.
 
 ## 💻Work experiences  
