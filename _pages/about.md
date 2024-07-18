@@ -74,7 +74,7 @@ redirect_from:
 
 ## 📃CV
 
-You can download my cv by [[this link]](http://academicpages.github.io/files/Tianrui_Hu_CV_.pdf)
+You can download my cv by [[this link]](http://orangesflower.github.io/files/Tianrui_Hu_CV_.pdf)
 
 <!-- 📚Publications
 ============
