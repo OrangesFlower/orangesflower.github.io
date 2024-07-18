@@ -72,6 +72,10 @@ redirect_from:
 * **Language:** Mandarin Chinese (Native), English (IELTS 7.0)
 * **Interests:** Computer Graphics, VR/AR, 3D Print, Modeling, Photography
 
+## 📃CV
+
+You can download my cv by [[this link]](http://academicpages.github.io/files/Tianrui_Hu_CV_.pdf)
+
 <!-- 📚Publications
 ============
 
