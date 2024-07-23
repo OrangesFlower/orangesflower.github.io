@@ -28,6 +28,10 @@ redirect_from:
 - **VR-based AR Hospital Navigation Simulation**  
   *Objective:* Explore AR indoor navigation in hospitals to address user challenges.
 
+## 📚Publications  
+
+* T. Hu and W. Hou, “Gaze-Adaptive Subtitles for 360° Videos in Virtual Reality”.- Accepted by ICVR2024.
+
 ## 💻Work experiences  
 
 * 2022.03 - 2022.04: **![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white) Xiaomi Inc**
@@ -38,10 +42,6 @@ redirect_from:
 
   * Intership - Tech interns
   * Duties included: Utilized Unreal Engine 4 blueprint system to implement pick-up and equipment systems, alongside Blender for game scene creation. Developed VR content for educational sector using digital twins engine.
-
-## 📚Publications  
-
-* T. Hu and W. Hou, “Gaze-Adaptive Subtitles for 360° Videos in Virtual Reality”.- Accepted by ICVR2024.
 
 ## 💾Projects  
 
