@@ -48,7 +48,7 @@ redirect_from:
 | Project | Role | Duration |
 |---------|------|----------|
 | **![Tencent](https://img.shields.io/badge/Tencent-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white) Tecent Computer Graphics & Rendering** | UE5 C++ Developer, Technical Artist | Oct. 2023 – June. 2024 |
-| - Procedural landscape generation using World Creator<br>- Scene creation with grass, trees, indoor/outdoor environments<br>- Weather and seasonal system implementation<br>- Rendering performance optimization |
+| - Procedural landscape generation using World Creator<br>- Procedural scene generation with grass, trees, indoor/outdoor environments<br>- Weather and seasonal system implementation<br>- Rendering performance optimization |
 |---------|------|----------|
 | **![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) VR Retro-style RogueLite Shooter Game** | UE5 C++ Developer, Design Artist | Mar. 2023 – Jul 2023 |
 | - Art asset development (sprites, props, maps) inspired by "Doom"<br>- Game asset creation in Blender and Substance Painter<br>- VR first-person shooter development, including enemy AI and visual effects |
@@ -67,8 +67,8 @@ redirect_from:
 
 ## 🔑Skills  
 
-* **Coding:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-* **Digital Content Creation & Graphics Engine:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF0000?style=flat&logo=adobe&logoColor=white)
+* **Coding:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+* **Digital Content Creation & Graphics Engine:** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-1E3101?style=flat&logo=adobe&logoColor=green)
 * **Language:** Mandarin Chinese (Native), English (IELTS 7.0)
 * **Interests:** Computer Graphics, VR/AR, 3D Print, Modeling, Photography
 
