@@ -30,7 +30,7 @@ redirect_from:
 
 ## 📚Publications  
 
-* T. Hu and W. Hou, “Gaze-Adaptive Subtitles for 360° Videos in Virtual Reality”.- Accepted by ICVR2024.
+* T. Hu and W. Hou, “Gaze-Adaptive Subtitles for 360° Videos in Virtual Reality”.- ICVR2024.
 
 ## 💻Work experiences  
 
