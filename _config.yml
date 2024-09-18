@@ -21,7 +21,7 @@ repository               : "OrangesFlower/OrangesFlower.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_picture.jpg"
+  avatar           : "me_mono.jpg"
   name             : "HU Tianrui"
   pronouns         : # example: "she/her"  
   bio              : "I'm just a simple man trying to make my way in the universe."
