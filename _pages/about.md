@@ -74,7 +74,7 @@ redirect_from:
 
 ## 📃CV
 
-You can download my cv by [[this link]](http://orangesflower.github.io/files/Tianrui_Hu_CV_.pdf)
+You can download my cv by [[this link]](http://orangesflower.github.io/files/Tianrui_Hu_CV_.pdf)[^note]
 
 <!-- 📚Publications
 ============
@@ -104,3 +104,5 @@ Service and leadership
 
 * Currently signed in to 43 different slack teams
  -->
+
+[^note]: Photo by [[Zihan Photography]](https://lizihanov17.github.io/) 
