@@ -24,7 +24,9 @@ redirect_from:
 *Location:* City University of Hong Kong, HongKong, China
 
 **Beijing Key Laboratory of Network System and Network Culture - Master of Science**
-*Advisor:* Professor Wenjun HOU*Duration:* September. 2022 – Present*Location:* BUPT, Beijing, China
+*Advisor:* Professor Wenjun HOU
+*Duration:* September. 2022 – Present
+*Location:* BUPT, Beijing, China
 
 - **Holographic Display and Interaction in 6G Communication Scenarios**
   *Objective:* Explore limitations of current holographic technology in 6G communication to improve interaction and immersion. [[Devlog]](https://www.bilibili.com/video/BV1Bh4y147mp/)
@@ -37,7 +39,7 @@ redirect_from:
 
 * Hongrun Wang, **Tianrui Hu**, Yuze Gao, Wenjun Hou, "LordofChange: A Haptic Sliding Controller with Changeable Tactile Textures". - EuroXR2024.[[GoogleScholar]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8pfKTFEAAAAJ&citation_for_view=8pfKTFEAAAAJ:u-x6o8ySG0sC)
 
-* **Tianrui Hu** and Wwenjun Hou, “Gaze-Adaptive Subtitles for 360° Videos in Virtual Reality”.- ICVR2024.[[GoogleScholar]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8pfKTFEAAAAJ&citation_for_view=8pfKTFEAAAAJ:d1gkVwhDpl0C)
+* **Tianrui Hu** and Wwenjun Hou, "Gaze-Adaptive Subtitles for 360° Videos in Virtual Reality" - ICVR2024.[[GoogleScholar]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8pfKTFEAAAAJ&citation_for_view=8pfKTFEAAAAJ:d1gkVwhDpl0C)
 
 ## 💻Work experiences
 
@@ -90,7 +92,7 @@ You can download my cv by [[this link]](http://orangesflower.github.io/files/Tia
 <!-- 📚Publications
 ============
 
-* T. Hu and W. Hou, “Gaze-Adaptive Subtitles for 360° Videos in Virtual Reality”.- Accepted by ICVR2024.
+* T. Hu and W. Hou, "Gaze-Adaptive Subtitles for 360° Videos in Virtual Reality" - Accepted by ICVR2024.
 
 <ul>{% for post in site.publications reversed %}
 {% include archive-single-cv.html %}
