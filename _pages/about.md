@@ -37,6 +37,8 @@ redirect_from:
 
 * **Tianrui Hu**, Taizhou Chen, Kening Zhu, "AirThumb: Supporting Mid-air Thumb Gestures with Built-in Sensors on Commodity Smartphones". - Accepted by CHI LBW 2025.
 
+* Linkai Lyu, **Tianrui Hu**, Hongrun Wang, Wenjun Hou, "SRD Method: Integrating Autostereoscopy and Gesture Inter-action for Immersive Serious Game-Based Behavioral Skills Training". - To be reviewed.
+
 * Hongrun Wang, **Tianrui Hu**, Yuze Gao, Wenjun Hou, "LordofChange: A Haptic Sliding Controller with Changeable Tactile Textures". - EuroXR2024.[[GoogleScholar]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8pfKTFEAAAAJ&citation_for_view=8pfKTFEAAAAJ:u-x6o8ySG0sC)
 
 * **Tianrui Hu** and Wwenjun Hou, "Gaze-Adaptive Subtitles for 360° Videos in Virtual Reality" - ICVR2024.[[GoogleScholar]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8pfKTFEAAAAJ&citation_for_view=8pfKTFEAAAAJ:d1gkVwhDpl0C)
