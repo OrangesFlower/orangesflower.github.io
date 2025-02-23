@@ -13,19 +13,19 @@ redirect_from:
 
 ## 🔬Research experiences
 
-**VisLab - Visiting Student**
-*Advisor:* Professor Huamin Qu
-*Duration:* Feb. 2025 – Present
+**VisLab - Visiting Student**  
+*Advisor:* Professor Huamin Qu  
+*Duration:* Feb. 2025 – Present  
 *Location:* The Hong Kong University of Science and Technology, HongKong, China
 
-**MEI Lab - Research Assistant**
-*Advisor:* Professor Kening ZHU
-*Duration:* May. 2024 – Feb. 2025
+**MEI Lab - Research Assistant**  
+*Advisor:* Professor Kening ZHU  
+*Duration:* May. 2024 – Feb. 2025  
 *Location:* City University of Hong Kong, HongKong, China
 
-**Beijing Key Laboratory of Network System and Network Culture - Master of Science**
-*Advisor:* Professor Wenjun HOU
-*Duration:* September. 2022 – Present
+**Beijing Key Laboratory of Network System and Network Culture - Master of Science**  
+*Advisor:* Professor Wenjun HOU  
+*Duration:* September. 2022 – Present  
 *Location:* BUPT, Beijing, China
 
 - **Holographic Display and Interaction in 6G Communication Scenarios**
