@@ -35,9 +35,12 @@ redirect_from:
 
 ## 📚Publications
 
-* **Tianrui Hu**, Taizhou Chen, Kening Zhu, "AirThumb: Supporting Mid-air Thumb Gestures with Built-in Sensors on Commodity Smartphones". - Accepted by CHI LBW 2025.
+* Yanjia Li, **Tianrui Hu**, Yi-Fan Cao, Huamin Qu and Sicheng Song, "SupplySim: Learning to Simulate Supply Chain
+ Networks with Graph-Based Multi-Agent Systems for Education". - To be reviewed by UIST25.
 
-* Linkai Lyu, **Tianrui Hu**, Hongrun Wang, Wenjun Hou, "SRD Method: Integrating Autostereoscopy and Gesture Inter-action for Immersive Serious Game-Based Behavioral Skills Training". - To be reviewed.
+* **Tianrui Hu**, Taizhou Chen, Kening Zhu, "AirThumb: Supporting Mid-air Thumb Gestures with Built-in Sensors on Commodity Smartphones". - CHI LBW 2025.[[GoogleScholar]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8pfKTFEAAAAJ&citation_for_view=8pfKTFEAAAAJ:2osOgNQ5qMEC)
+
+* Linkai Lyu, **Tianrui Hu**, Hongrun Wang, Wenjun Hou, "SRD Method: Integrating Autostereoscopy and Gesture Interaction for Immersive Serious Game-Based Behavioral Skills Training". - Electronics.[[GoogleScholar]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8pfKTFEAAAAJ&citation_for_view=8pfKTFEAAAAJ:UeHWp8X0CEIC)
 
 * Hongrun Wang, **Tianrui Hu**, Yuze Gao, Wenjun Hou, "LordofChange: A Haptic Sliding Controller with Changeable Tactile Textures". - EuroXR2024.[[GoogleScholar]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8pfKTFEAAAAJ&citation_for_view=8pfKTFEAAAAJ:u-x6o8ySG0sC)
 
@@ -89,7 +92,7 @@ redirect_from:
 
 ## 📃CV
 
-You can download my cv by [[this link]](http://orangesflower.github.io/files/Tianrui_Hu_CV_.pdf)[^note]
+You can download my cv by [[this link]](http://orangesflower.github.io/files/Tianrui_Hu_CV.pdf)[^note]
 
 <!-- 📚Publications
 ============
